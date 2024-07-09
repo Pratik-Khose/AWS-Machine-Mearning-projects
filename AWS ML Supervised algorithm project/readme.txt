@@ -1,1 +1,1 @@
-Documentation - https://medium.com/@pratikkhose/aws-machine-learning-project-01-78b601c8f487
+Documentation - https://pratikkhose.medium.com/aws-machine-learning-project-01-67199dbd2c4e
